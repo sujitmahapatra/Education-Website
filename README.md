@@ -1,6 +1,6 @@
-# 🌐 Tech-Edu Website
+# 🌐 Edu-Tech Website
 
-Welcome to the **Tech-Edu Website**, a beautifully designed educational platform to explore various tech courses and stay updated with the latest trends in technology! 🚀
+Welcome to the **Edu-Tech Website**, a beautifully designed educational platform to explore various tech courses and stay updated with the latest trends in technology! 🚀
 
 ---
 
