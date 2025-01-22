@@ -2,6 +2,10 @@
 
 Welcome to the **Edu-Tech Website**, a beautifully designed educational platform to explore various tech courses and stay updated with the latest trends in technology! 🚀
 
+<h1 align="center">
+  👉<a href="https://sujitmahapatra.github.io/Education-Website" target="_blank" rel="noopener noreferrer">Live Demo</a>
+</h1>
+
 ---
 
 ## 📋 Project Overview
